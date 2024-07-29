@@ -1,0 +1,7 @@
+apple
+banana
+peach
+tomato
+melon
+orange
+mango

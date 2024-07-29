@@ -5,3 +5,6 @@ tomato
 melon
 orange
 mango
+apple
+banana
+applemango
